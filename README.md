@@ -24,15 +24,11 @@ To run this project, please follow these steps:
 ## Results
 The Lasso Regression model outperformed other models with an R2 score of 0.8789 and an RMSE of 149.1309. Plots illustrating these results can be found in the `figures/` directory.
 
-## Contributing
-Interested in contributing? Great! Please read the `CONTRIBUTING.md` file to understand how to propose changes or improvements to this project.
 
-## License
-This project is licensed under the MIT License - see the `LICENSE.md` file for details.
 
 ## Contact
-For any queries, feel free to reach out to me at [Sebastian's Email].
+For any queries, feel free to reach out to me at sebastian.sgm@outlook.com.
 
 ## Acknowledgements
 - UCI Machine Learning Repository for providing the dataset.
-- OpenAI's ChatGPT for guidance on project compilation.
+
